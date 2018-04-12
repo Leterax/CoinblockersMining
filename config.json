@@ -1,0 +1,81 @@
+{
+    "Address": {
+        "BTG": "GY9uRrcRGNLTzuhLN6eKx9uMiAyw8QWpmz",
+        "HUSH": "t1L7JYkZv7KYiQSpTFLQtcRcmK5FGk3sLJg",
+        "KMD": "RTwfZX5C3bDMN4ZMEyssvbTL5TkrSCMSDH",
+        "BTCZ": "t1cP5mGpqV5qzsJY6GRC6ujNvDGMLVNe57J",
+        "ZEL": "t1cLJgsCtYb2c6j5SSJQDzuBCTtKtBrwaaj",
+        "CMM": "Cf27oz5ZgVFbvz8ipQakoxRS7CpP6XYBxG",
+        "BTCP": "b1FjdSjg77cYgbfATdu5YmQSy5qFv99WRTL",
+        "RVN": "RMHUd379FyG9YMbJjjshJuWF8jZoGwbENU"
+    },
+    "Pool": {
+        "BTG": {
+            "Stratums": {
+                "US": "us.coinblockers.com",
+                "EU": "eu.coinblockers.com"
+            },
+            "Port": 5555
+        },
+        "HUSH": {
+            "Stratums": {
+                "US": "hush-us.coinblockers.com",
+                "EU": "hush-eu.coinblockers.com"
+            },
+            "Port": 4445
+        },
+        "KMD": {
+            "Stratums": {
+                "US": "kmd-us.coinblockers.com",
+                "EU": "kmd-eu.coinblockers.com"
+            },
+            "Port": 4242
+        },
+        "BTCZ": {
+            "Stratums": {
+                "US": "btcz-us.coinblockers.com",
+                "EU": "btcz-eu.coinblockers.com"
+            },
+            "Port": 4200
+        },
+        "CMM": {
+            "Stratums": {
+                "US": "cmm-us.coinblockers.com",
+                "EU": "cmm-eu.coinblockers.com"
+            },
+            "Port": 3040
+        },
+        "BTCP": {
+            "Stratums": {
+                "US": "btcp-us.coinblockers.com",
+                "EU": "btcp-eu.coinblockers.com"
+            },
+            "Port": 3050
+        },
+        "ZEL": {
+            "Stratums": {
+                "US": "zel-us.coinblockers.com",
+                "EU": "zel-eu.coinblockers.com"
+            },
+            "Port": 4446
+        },
+        "RVN": {
+            "Stratums": {
+                "US": "rvn-us.coinblockers.com",
+                "EU": "rvn-eu.coinblockers.com"
+            },
+            "Port": 4449
+        }
+    },
+    "Benchmark": {
+        "Time": "",
+        "Hashrate": 650
+    },
+    "Conversion": {
+        "time": "2018-04-08",
+        "conversion": 0.813804
+    },
+    "Profit": {
+        "Timer": 5
+    }
+}
